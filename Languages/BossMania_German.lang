@@ -1,0 +1,248 @@
+GUI_PREVIOUS: Vorherige Seite
+GUI_PREVIOUS_LORE: Zur vorherigen Seite gehen.
+GUI_NEXT: Weiter
+GUI_NEXT_LORE: Weiter zur nächsten Seite.
+GUI_SEARCH: Search
+GUI_SEARCH_LORE: Zum Suchen klicken.
+GUI_REMOVE: Remove
+GUI_REMOVE_LORE: Entfernen Sie den Boss.
+GUI_COPY: Kopieren
+GUI_COPY_LORE: Erstellen Sie eine Kopie vom boss.
+GUI_CONFIRM: Bestätigen
+GUI_CONFIRM_LORE: §7Klicken Sie zum Bestätigen
+GUI_ABORT: Abbrechen
+GUI_ABORT_LORE: §7Klicken Sie zum Abbrechen
+GUI_BOSSES_LORE: Verwalten Sie Den Boss
+GUI_AUTOSPAWNS_LORE: Verwalten der Autospawns
+GUI_AUTOSPAWN_TELEPORT: Rechtsklicken zum Teleportieren.
+GUI_AUTOSPAWN_SPAWNPOINTS: Verwalten Sie die SpawnPoints des autoSpawns
+GUI_Press_Q_TO_REMOVESPAWN: §cQ drücken, um Spawnpoint zu entfernen.
+GUI_RANGE: Reichweite
+GUI_RANGE_LORE: §eWenn der Bereich größer als 0 ist, wird der Boss in einem Bereich um den eingestellten Autospawn spawnen
+GUI_MAX_SPAWNABLE_BOSSES: Es sollen Maximale nur an anzahl von Bossen Spawnen
+GUI_MAX_SPAWNABLE_BOSSES_LORE: §eDurch die Einstellung dieses Limits können Bosse nur aus dem Autospawn spawnen
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: §eNur, wenn die Anzahl der gelegten Bosse unter dieser Grenze liegt.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: §eWenn Sie diesen Grenzwert nicht festlegen möchten, setzen Sie ihn auf 0.
+GUI_ENABLED: Aktiviert
+GUI_DISABLED: Deaktiviert
+GUI_CLICKTO_ENABLE: §7Zum §aAktivieren §7klicken
+GUI_CLICKTO_DISABLE: §aKlicken Sie auf §cdeaktivieren
+GUI_SET_DISPLAYNAME: §aKlicken Sie mit der rechten Maustaste, um den Chat-Anzeigenamen einzugeben..
+GUI_HOLOGRAMPLUGIN_REQUIRED: §cUm einen Namen anzuzeigen zu können, müssen Sie HolographicDisplays haben!
+GUI_VAULT_REQUIRED: §cUm Geld zu setzen, braucht man die Plugins Vault und ein Economy!
+GUI_UNSET_DISPLAYNAME: §aDrücken Sie Q, um DisplayName zu entfernen..
+GUI_NAME: §eName
+GUI_NAME_LORE: §eWählen Sie den Namen des Items.
+GUI_INVALID_NAME: §cUngültiger Name! Sie können keine Sonderzeichen im Namen des Bosses verwenden!
+GUI_INVALID_AUTOSPAWN_NAME: §cUngültiger Name! Sie können keine Sonderzeichen im Autospawn-Namen verwenden!
+GUI_CREATE: Erstellen.
+GUI_CREATE_BOSS_LORE: Einen neuen Boss erstellen.
+GUI_CREATE_AUTOSPAWN_LORE: Neuen Autospawn erstellen.
+GUI_CLICK_TO_MANAGE: §aLinksklick zum Verwalten des Bosses
+GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aKlicken Sie mit der rechten Maustaste, um im Chat die Sekunden einzugeben.
+GUI_EQUIPMENT: Ausrüstung
+GUI_EQUIPMENT_LORE: Die Ausrüstung des Bosses verwalten.
+GUI_DROPS: Drops
+GUI_DROPS_LORE: Verwalten der Drops des Bosses.
+GUI_MAX_DROPS: §eMaxDrops
+GUI_MAX_DROPS_LORE: Legen Sie die maximale Anzahl an Beutestücken fest,
+GUI_MAX_DROPS_LORE2: die der Boss nach seinem Tod fallen lassen kann..
+GUI_DROPPEDMONEY: Geld fallen lassen
+GUI_AVAIBLE: §cNur in benutzerdefinierten Skills verfügbar.
+GUI_UNAVAIBLE: §cUnveränderlich
+GUI_COMMAND_DROPS: Verwalten Sie die Command Drops. Befehlsdrops sind Befehle, die ausgeführt werden, wenn der Boss stirbt.
+GUI_COMMAND_REPLACE: §bDas Wort §e%killer% §bwird durch den Namen des Bosskillers ersetzt.
+GUI_ALL: §bDas Wort §e%all% §b bewirkt, dass der Befehl an alle Spieler ausgeführt wird, die den Boss getroffen haben..
+GUI_COMMAND_TOP_REPLACE: §bDas Wort §e%1thDamager% §bwird durch den Namen des Top Damagers ersetzt.
+GUI_COMMAND_SECOND_REPLACE: §bDas Wort §e%2thDamager% §bwird durch den Namen des zweiten Top-Schadensverursachers ersetzt.
+GUI_COMMAND_THIRD_REPLACE: §bDas Wort §e%3thDamager% §bwird durch den Namen des dritten Top-Schadensverursachers ersetzt.
+GUI_COMMAND_TOP_DAMAGE_REPLACE: §bDas Wort §e%1thDamage% §bwird durch den Schaden ersetzt, den der oberste Schädiger anrichtet.
+GUI_COMMAND_SECOND_DAMAGE_REPLACE: §bDas Wort §e%2thDamage% §bwird durch den Schaden ersetzt, den der zweite Top-Schädiger anrichtet.
+GUI_COMMAND_THIRD_DAMAGE_REPLACE: §bDas Wort §e%3thDamage% §bwird durch den Schaden ersetzt, den der dritte Top-Schädiger anrichtet.
+GUI_SPAWN_CONDITIONS: SpawnBedingungen
+GUI_SPAWN_CONDITIONS_LORE: MVerwalten Sie die Spawnbedingungen des Bosses.
+GUI_SPAWN_CONDITIONS_LORE2: Wenn Sie eine Spawn-Bedingung hinzufügen, kann der Boss nur spawnen, wenn er die Bedingung erfüllt.
+GUI_SPAWN_CONDITIONS_LORE3: Der Befehl /bm spawn umgeht die Bedingungen.
+GUI_SKILL: Skills
+GUI_SKILL_LORE: Die Fähigkeiten des Bosses verwalten.
+GUI_BOSSBAR_ENABLE: Linksklick zum Aktivieren der Bossbar. (erfordert einen Server 1.13.2 oder höher))
+GUI_EXECUTEFORPLAYERS: Skill an Spielern ausgeführt
+GUI_EXECUTEFORBOSS: Skill wurde vom Boss ausgeführt
+GUI_BOSSBAR: Verwalten der BossBar des Bosses.
+GUI_BOSSBAR_DISABLE: Linksklick zum Deaktivieren der Bossbar.
+GUI_LEVEL: Level
+GUI_CHANGE_BOSSBAR_COLOR: Zum Ändern der Farbe anklicken.
+GUI_CHANGE_BOSSBAR_STYLE: Klicken, um den Stil zu ändern.
+GUI_DESPAWNAFTER: Verschwindet nach
+GUI_DESPAWNAFTER_VALUE: §eVerschwindet nach %value%
+GUI_DESPAWNAFTER_LORE: Mit dieser Option können Sie eine Abklingzeit festlegen.
+GUI_DESPAWNAFTER_LORE2: Wenn diese Abklingzeit abgelaufen ist, wird der Boss despawnen..
+GUI_DESPAWNAFTER_LORE3: Wenn der Boss Schaden erleidet, wird die Abklingzeit zurückgesetzt..
+GUI_DESPAWNAFTER_LORE4: Wenn Sie diese Abklingzeit nicht aktivieren wollen, setzen Sie den Wert auf 0.
+GUI_CHANCES: Wahrscheinlichkeit
+GUI_CHANCES_LORE: §aDie Chancen des Bosses, eine seiner Fähigkeiten auszuführen
+GUI_MAX_BOSSES_FOR_CHUNK: Maximale Anzahl von Bossen in 1 Chunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE: Festlegen, wie viele Bosse mit randomSpawns in einem Chunk spawnen können
+GUI_MAX_BOSSES_FOR_CHUNKLORE2: Wenn Sie keinen Grenzwert festlegen möchten, geben Sie 0 ein..
+GUI_MAX_BOSSES_FOR_WORLD: Maximal an Bosse für die Welt
+GUI_MAX_BOSSES_FOR_WORLDLORE: Festlegen, wie viele Bosse mit randomSpawns in einer Welt spawnen können
+GUI_NO_ARMOR: KEINE RÜSTUNG
+GUI_NO_MAIN_ITEM: KEIN GEGENSTAND IN DER HAUPTHAND
+GUI_NO_OFF_ITEM: KEIN ITEM IN DER Off HAND
+GUI_BACK: Zurück
+GUI_CLICK_TO_CHANGE: Zum Ändern anklicken.
+GUI_LEFT_CLICK_TO_CHANGE: Linksklick zum Ändern.
+GUI_CLICK_TO_CHOOSE: Zum Auswählen des Typs anklicken.
+GUI_SET_NOTHING: EINSTELLUNG NICHTS
+GUI_ADD: hinzufügen
+GUI_BOSS_ADD_LORE: Einen Boss hinzufügen.
+GUI_DROP_ADD_LORE: Einen Drop hinzufügen.
+GUI_SKILL_ADD_LORE: Eine Fähigkeit hinzufügen.
+GUI_CONDITION_ADD_LORE: Eine Bedingung hinzufügen.
+GUI_CLICK_TO_ADD: §aLinksklick zum Hinzufügen.
+GUI_CLICK_TO_REMOVE: §cRechtsklick zum Entfernen.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aKlicken Sie mit der linken Maustaste, um im Chat-Radius zu tippen.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aRechtsklick zum Ändern des Ziels.
+GUI_LEFT_CLICK_TOTYPE_EXECUTEDWHEN: §aKlicken Sie mit der linken Maustaste, um zu ändern, wann die Fertigkeit ausgeführt werden soll..
+GUI_RIGHT_CLICK_TOTYPE_TIMER: §aRechtsklick, um den Timer für die Fertigkeit einzugeben.
+GUI_ALWAYS_EXPLAINATION: §Dieser Auslöser sorgt dafür, dass der Boss eine Fertigkeit ausführt, wenn er spawnt und.
+GUI_ALWAYS_EXPLAINATION_LORE: getroffen wird, wenn er stirbt. Er wird die Fertigkeit nicht jede Sekunde ausführen.
+GUI_TIMER: §aDer Skill wird alle §§e%seconds%  §Sekunden ausgeführt
+GUI_LEFT_CLICK_TOTYPE_VOLUME: §aLinke Klick zum Eingeben der Chatlautstärke.
+GUI_RIGHT_CLICK_TOTYPE_PITCH: §aRechtsklick zum Eingeben des Chat-Tons.
+GUI_Press_Q_TO_REMOVE: §cDrücken Sie Q, um den Drop zu entfernen.
+GUI_Press_Q_TO_REMOVESKILL: §cDrücken Sie Q, um die Fähigkeit zu entfernen.
+GUI_Press_Q_TO_MANAGE: §aDrücken Sie Q, um die Fähigkeit zu verwalten.
+GUI_Press_Q_TO_REMOVESOUND: §cDrücken Sie Q, um den Ton zu entfernen..
+GUI_PRESS_SHIFT_TO_MOVE: §cDrücken Sie Umschalttaste + Linksklick / Shift + Rechtsklick, um dies nach links oder rechts zu verschieben.
+GUI_Press_Q_TO_REMOVEBOSS: §cDrücken Sie Q, um den Boss zu entfernen.
+GUI_Press_Q_TO_REMOVEACTION: §cDrücken Sie Q, um die Aktion zu entfernen..
+GUI_PRESSQ_TO_TYPE: §eQ drücken, um im Chat zu tippen.
+GUI_LEFT_TO_TYPE: §eKlicken Sie mit der linken Maustaste, um im Chat die Chance einzugeben.
+GUI_RIGHT_TO_TYPE: Klicken Sie mit der rechten Maustaste, um im Chat die Chance einzugeben.
+GUI_GO_UPTOMAX: §eWenn Sie einen höheren Wert als %max% einstellen wollen, ändern Sie den %value%
+GUI_GO_UPTOMAX2: §die Datei spigot.yml, und starten Sie den Server neu (nicht neu laden).
+GUI_LEFT_TO_TYPE_LEVEL: §eKlicken Sie mit der Linksklick, um im Chat den Level einzugeben.
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eKlicken Sie mit der linken Maustaste, um das Attribut Chat einzugeben..
+GUI_RIGHT_CLICK_TO_DEFAULT: §eRechklick, um den Standardwert festzulegen.
+GUI_LEFT_TO_TYPE_QUANTITY: §eLinksklick, um die Menge einzugeben..
+GUI_CLICK_ENCHANTMENTS: §cKlicken Sie, um Verzauberungen zu verwalten.
+GUI_RIGHT_CLICK_ENCHANTMENTS: §cRechtsklick zum Verwalten von Verzauberungen.
+GUI_SETININVENTORY: '§cWenn diese Option aktiviert ist, wird der Drop direkt in das Inventar des Spielers hinzugefügt: §e'
+GUI_SETININVENTORY_LORE: §aRechsklick, um zu ändern, wer den Drop erhalten soll.
+GUI_ATTRIBUTES: Eigenschaften
+GUI_GENERIC_ATTRIBUTES: §eAllgemeine Eigenschaften
+GUI_GENERIC_ATTRIBUTES_LORE: §eKlicken Sie hier, um die Attribute für den Mob-Typ zu ändern
+GUI_MOB_ATTRIBUTES: §eAttribute des Mobs
+GUI_MOB_ATTRIBUTES_LORE: §eKlicken Sie hier, um die Attribute für den Mob-Typ zu ändern
+GUI_HEALTH: §eGesundheit
+GUI_DAMAGE: §eSchaden
+GUI_MOVEMENT_SPEED: §eBewegungsgeschwindigkeit
+GUI_FOLLOW_RANGE: §eBereich folgen
+GUI_KNOCKBACK_RESISTANCE: §eRückschlagresistenz
+GUI_IMMUNE_TO_FIRE: §eUnempfindlich gegen Feuer
+GUI_IMMUNE_TO_EXPLOSIONS: §eUnempfindlich gegen Explosionen
+GUI_IMMUNE_TO_PROJECTILES: §eUnempfindlich gegen Pfeile
+GUI_IMMUNE_TO_SWEEP: §eUnempfindlich gegen Sweep-Angriffe
+GUI_IMMUNE_TO_MAGIC: §eUnempfindlich gegen magische Angriffe
+GUI_IMMUNE_TO_MAGIC_LORE: '§e(Ein magischer Angriff könnte sein: Drachenatem, Tränke, oder einige Angriffe von Fähigkeiten aus RPG-Plugins)'
+GUI_MODELENGINE: §cModelEngine nicht installiert
+GUI_DAY_CONDITION: Wenn aktiviert, kann der Boss dies nur tun, wenn es Tag ist.
+GUI_NIGHT_CONDITION: Wenn diese Funktion aktiviert ist, kann der Boss dies nur tun, wenn es Nacht ist..
+GUI_NOT_IN_REGION: Wenn diese Option aktiviert ist, kann der Boss dies nur tun, Wenn er sich nicht in der ausgewählten Region befindet. (Erfordert WorldGuard)
+GUI_IN_REGION: Wenn diese Option aktiviert ist, kann der Boss dies nur tun, Wenn er sich in der ausgewählten Region befindet. (Erfordert WorldGuard)
+GUI_RAIN_CONDITION: Wenn diese Option aktiviert ist, kann der Boss dies nur tun, wenn es regnet.
+GUI_THUNDER_CONDITION: Wenn aktiviert, kann der Boss dies nur tun, wenn es donnert..
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Falls aktiviert, kann der Boss dies nur tun, wenn er zuletzt durch einen Pfeil verletzt wurde..
+GUI_MELEE_DAMAGE_CONDITION: Falls aktiviert, kann der Boss dies nur tun, wenn er zuletzt Nahkampfschaden erhalten hat..
+GUI_AI_TYPE: §eTyp Ai
+GUI_ATTACKED_BY_MOBS: §eWird von Mobs angegriffen
+GUI_ATTACKED_BY_MOBS_LORE: Wenn aktiviert, wird der Boss von Mobs angegriffen, WENN er ihnen Schaden zufügt, wie es bei Vanilla-Mobs der Fall ist..
+GUI_AGGESSIVE: Aggressiv
+GUI_AGGRESSIVE_LORE: §eDer Boss wird andere Spieler angreifen.
+GUI_NEUTRAL: Neutral
+GUI_NEUTRAL_LORE: §eDer Boss greift andere Spieler nur an, wenn sie ihn angreifen.
+GUI_PACIFIC: Pazifik
+GUI_PACIFIC_LORE: §eDer Boss greift keine Spieler an.
+GUI_DEFAULT: Standard
+GUI_DEFAULT_LORE: §eDie KI des Endgegners ist die Vorgabe für seinen Mob-Typ.
+GUI_DEATHMESSAGE: Todesnachricht
+GUI_DEATHMESSAGE_LORE: §eNachricht an Spieler bei Tod des Bosses aktiviert §e
+GUI_PASSENGER: §bPassenger
+GUI_PASSENGER_LORE: §7Linksklick, um festzulegen, welcher Mob den Boss reiten soll, wenn er spawnt.
+GUI_PASSENGER_LORE2: §7Rechtsklick zum Entfernen des Passagiers.
+GUI_MOBTYPE: '§aMobType §e%mobType%'
+GUI_MOBTYPE_LORE: §aKlicken Sie, um den Mob-Typ des Bosses zu ändern.
+GUI_RANDOMSPAWN: RandomSpawn
+GUI_RANDOMSPAWN_LORE: §7Verwalten Sie das automatische Spawnen des Bosses in der ganzen Welt.
+GUI_CHANCE: Legen §7Sie die Chance fest, mit der der Boss in der Welt spawnen kann.
+GUI_ALLOWED_WORLD: Erlaubte Welten
+GUI_ALLOWED_WORLD_LORE: §7Legt die Welten fest, in denen der Boss spawnen darf.
+GUI_ALLOWED_BIOMES: Erlaubte Biome
+GUI_ALLOWED_BIOMES_LORE: §7Legen Sie die Biome fest, in denen der Boss in den Welten spawnen darf.
+GUI_ALL_BIOMES_ALLOWED: Alle Biome erlauben
+GUI_ALL_BIOMES_ALLOWED_LORE: §7Wenn diese Option aktiviert ist, kann der Boss in allen Biomen spawnen.
+GUI_UNAVAILABLE: §cNicht verfügbar für diesen Mob.
+GUI_ISBABY: §eIsBaby
+GUI_PREVENTSPLIT: §eAufteilung verhindern
+GUI_PREVENTSUNBURN: §eSonnenbrand verhindern
+GUI_PREVENTTELEPORT: §eTeleport verhindern
+GUI_PREVENTEXPLOSION: §eExplosion verhindern
+GUI_PREVENTEXPLOSION_LORE: §7Verhindern, dass Creepers explodieren
+GUI_GLOWING: §eLeucht Effekt
+GUI_SUPER_CHARGED: §eSupergeladen
+GUI_SIZE: Größe
+GUI_CLICK_TO_TYPE_SIZE: §7Klicken Sie, um die Größe des Mobs einzugeben.
+GUI_SUPER_CHARGED_LORE: §7Super-Charge des Creepers
+GUI_DISABLE_SOUNDS: §7Standardtöne deaktivieren
+GUI_DISABLE_SOUNDS_LORE: §7Mit dieser Option können Sie die Standard-Sounds des Mobs deaktivieren.
+GUI_SOUNDS: Sounds
+GUI_ONSPAWNSOUNDS: Zu Spawn Sounds
+GUI_ONDAMAGESOUNDS: Über Schadens Sound
+GUI_ONEXECUTESKILLSOUNDS: §7Beim Ausführen von Skill Sounds
+GUI_ONDEATHSOUNDS: Über Todes Sounds
+GUI_SOUNDS_LORE: §7Vom Boss erzeugte Geräusche verwalten.
+GUI_SOUNDSONSPAWN: §7Verwalten der Geräusche, die der Boss beim Spawnen von sich gibt.
+GUI_SOUNDSONDEATH: §7Geräusche verwalten, die der Boss macht, wenn er stirbt.
+GUI_SOUNDSONDAMAGE: §7Verwalten der Geräusche, die der Boss macht, wenn er Schaden erleidet.
+GUI_SOUNDSONEXECUTE: §7Verwalten der Geräusche, die der Boss macht, wenn er eine Fähigkeit ausführt.
+GUI_CUSTOMATTACK: §eCustom Attack ("Citizens"-Plugin erforderlich))
+GUI_CUSTOMATTACKLORE: §7If aktivierte Boss-Angriffe werden vom Plugin behandelt, nur aktivieren, wenn Angriffsgeschwindigkeit/Reichweite geändert werden
+GUI_MODELENGINE_LORE: §aRechtsklick, um die Animation des Modells zu ändern
+GUI_ATTACKRANGE: §eAngriffsreichweite
+GUI_ATTACKRANGE_LORE: §7Angriffsreichweite = §§e%range% §7Blöcke
+GUI_ATTACKSPEED: §eAngriffsgeschwindigkeit
+GUI_ATTACKSPEED_LORE: §7Angriffsgeschwindigkeit = §e%speed% §7Ticks(20 Ticks = 1 Sekunde)
+GUI_REQUIRESCUSTOMATTACK: §7Diese Option wird nur berücksichtigt, wenn der benutzerdefinierte Angriff aktiviert ist.
+GUI_MIGRATION: Daten importieren
+GUI_MIGRATION_LORE: §aVom Plugin %plugin%
+GUI_MIGRATION_LORE2: Plugin konvertiert keine bereits existierenden Bosse!
+CONSOLE_CANNOT_USE: §cDie Konsole kann diesen Befehl nicht verwenden!
+NO_PERMISSION: §cSie haben nicht die Erlaubnis, diese Aktion durchzuführen!
+COMMAND_INVALID_ARGS: §cUngültige Begründungen!
+COMMAND_NOTFOUND: §cBefehl nicht gefunden!
+COMMAND_HINT_HELP: §7Gib im Chat /bossmania help ein, um alle Befehle zu sehen.
+BOSS_ALREADY_EXISTS: §cEin Boss mit diesem Namen existiert bereits!
+SKILL_ALREADY_EXISTS: §cEine Fähigkeit mit diesem Namen existiert bereits!
+BOSS_DOESNT_EXISTS: §cEinen Boss mit diesem Namen gibt es nicht!
+TRACKER_COMMAND_ERROR: §cDie Bosse %bosses% gibt es nicht
+AUTOSPAWN_ALREADY_EXISTS: §cEin Autospawn mit diesem Namen existiert bereits!
+TYPE_DOESNT_EXISTS: §cDiese Art von Mob gibt es nicht!
+SIZE_REQUIRED: §cUm einen Boss mit dem Mob-Typ %mob% zu erstellen, müssen Sie die Größe angeben.
+SIZE_TOO_BIG: §cDie Größe darf nicht mehr als 22 betragen.!
+CREATED_BOSS: §aErfolgreich den Boss erstellt §e%boss%
+GIVEN_EGG: §aErfolgreich das Ei des Bosses §e%boss% erhalten
+CANT_FIND_PLAYER: §cSpieler %player% kann nicht gefunden werden.
+BOSS_SPAWNED: §aErfolgreich den Boss §e%boss% gespawnt
+KILLED_ALL_BOSSES: §aErfolgreich alle Bosse getötet.
+KILLED_ALL_BOSSES_OF: §aErfolgreich alle Bosse des Typs §e%Typ% getötet.
+INVALID_NUMBER: §cUngültige Nummer!
+INVALID_COORDS: §cUngültige Koordinaten!
+CONSOLE_SPEC: §cDie Konsole muss Koordinaten angeben!
+INVALID_AUTOSPAWN: §cUngültiger Ort oder ungültige Entitäten! Bitte überprüfen Sie den Autospawn und versuchen Sie es erneut.
+SETTED_HEALTH: §aDem Boss %boss% erfolgreich Gesundheit %health% verliehen
+SETTED_DAMAGE: §aDem Boss %boss% erfolgreich Schaden %damage% zugefügt
+PLUGIN_RELOADED: §aPlugin erfolgreich neu geladen!
+REMOVED_BOSS: §aErfolgreich den Boss §e%boss% entfernt
+TRACKER_CREATED: §aErfolgreich einen Tracker für den Bosse §e%bosses% erstellt, dieser Kompass wird immer auf diese Art von Bossen zeigen, (wenn sie in der gleichen Welt wie der Spieler leben)
+NO_BOSSES: §cEs wurden keine %bosses% lebenden Bosse gefunden!
